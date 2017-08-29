@@ -2,11 +2,12 @@
   "name": "examples-ws",
   "version": "1.0.0",
   "description": "websocket related examples",
-  "main": "index.js",
+  "main": "server.js",
   "repository": "https://github.com/zbw322092/examples-ws.git",
   "author": "Bowen Zhong <bz4e14@soton.ac.uk>",
   "license": "MIT",
   "dependencies": {
+    "express": "^4.15.4",
     "ws": "^3.1.0"
   }
 }
